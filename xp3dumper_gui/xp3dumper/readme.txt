@@ -1,11 +1,11 @@
-xp3dumper ¹¤¾ß¼¯ºÏ
+xp3dumper ãƒ„ãƒ¼ãƒ«ã‚»ãƒƒãƒˆ
 
-ËµÃ÷£º
- /xp3dumper xp3°ü×Ô¶¯ÌáÈ¡²å¼ş
- /xp3maker  xp3°üÄæÌáÈ¡²å¼ş
- /helpers  ÆäËü¸¨Öú¹¤¾ß
-    - !dumpHelper.tpm  ÓÃÓÚ¸¨Öúxp3dumperºÍxp3maker²å¼şµÄ·´¼ì²â²å¼ş
-    - !exporteraddr.tpm  ÓÃÓÚÊÕ¼¯xp3dumperÄ£Ê½3ËùĞèµÄÒ»¸öĞÅÏ¢µÄ²å¼ş
-    - DllLoader.exe  Ò»¸ö±¯¾çµÄDll×¢Èë¹¤¾ß
+èª¬æ˜ï¼š
+ /xp3dumper xp3 unpacker plugin
+ /xp3maker  xp3 packer plugin
+ /helpers  ãã®ä»–ã®è£œåŠ©ãƒ„ãƒ¼ãƒ«
+    - !dumpHelper.tpm  xp3dumperãŠã‚ˆã³xp3makerãƒ—ãƒ©ã‚°ã‚¤ãƒ³ã‚’æ”¯æ´ã™ã‚‹ã‚¢ãƒ³ãƒæ¤œå‡ºãƒ—ãƒ©ã‚°ã‚¤ãƒ³
+    - !exporteraddr.tpm  xp3dumperãƒ¢ãƒ¼ãƒ‰3ã§å¿…è¦ãªæƒ…å ±ã‚’åé›†ã™ã‚‹ãŸã‚ã®ãƒ—ãƒ©ã‚°ã‚¤ãƒ³
+    - DllLoader.exe  ä¸€ä¸ªæ‚²å‰§çš„Dllæ³¨å…¥å·¥å…·
     
 Resty.
