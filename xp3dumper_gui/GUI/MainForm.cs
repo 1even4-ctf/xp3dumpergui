@@ -165,5 +165,10 @@ namespace Clowwindy.XP3Dumper.GUI
         {
             SettingUtils.Change("NTLEAPath", tbNTLEAPath.Text);
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -126,13 +126,13 @@
     <value>6, 25</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 12</value>
+    <value>349, 12</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>游戏启动exe文件（如破解用的boot文件，含路径）：</value>
+    <value>ゲーム起動のexeファイル(ハッキングに含まれるbootファイルなど、パス含み)</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
@@ -153,13 +153,13 @@
     <value>6, 64</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 12</value>
+    <value>169, 12</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>游戏执行exe文件（不含路径）：</value>
+    <value>ゲーム実行のexeファイル(パス抜き)</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -177,7 +177,7 @@
     <value>4, 40</value>
   </data>
   <data name="tbBootFilename.Size" type="System.Drawing.Size, System.Drawing">
-    <value>219, 21</value>
+    <value>219, 19</value>
   </data>
   <data name="tbBootFilename.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -198,7 +198,7 @@
     <value>4, 79</value>
   </data>
   <data name="tbExcuteFilename.Size" type="System.Drawing.Size, System.Drawing">
-    <value>219, 21</value>
+    <value>219, 19</value>
   </data>
   <data name="tbExcuteFilename.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -219,7 +219,7 @@
     <value>4, 118</value>
   </data>
   <data name="tbXp3Filename.Size" type="System.Drawing.Size, System.Drawing">
-    <value>219, 21</value>
+    <value>219, 19</value>
   </data>
   <data name="tbXp3Filename.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -243,13 +243,13 @@
     <value>6, 103</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>299, 12</value>
+    <value>345, 12</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>目标xp3文件（不含路径，多个包可用半角逗号分隔）：</value>
+    <value>解凍するxp3ファイル(パス抜き、複数個の場合、半角カンマ区切りにする)</value>
   </data>
   <data name="&gt;&gt;label3.Name" xml:space="preserve">
     <value>label3</value>
@@ -273,7 +273,7 @@
     <value>6</value>
   </data>
   <data name="btnStart.Text" xml:space="preserve">
-    <value>提取</value>
+    <value>実行</value>
   </data>
   <data name="&gt;&gt;btnStart.Name" xml:space="preserve">
     <value>btnStart</value>
@@ -294,13 +294,13 @@
     <value>6, 143</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 12</value>
+    <value>83, 12</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>保存文件夹：</value>
+    <value>保存するフォルダ</value>
   </data>
   <data name="&gt;&gt;label4.Name" xml:space="preserve">
     <value>label4</value>
@@ -318,7 +318,7 @@
     <value>4, 160</value>
   </data>
   <data name="tbSavePath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>219, 21</value>
+    <value>219, 19</value>
   </data>
   <data name="tbSavePath.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -342,13 +342,13 @@
     <value>13, 20</value>
   </data>
   <data name="rbUseSoraApp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 16</value>
+    <value>118, 16</value>
   </data>
   <data name="rbUseSoraApp.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
   </data>
   <data name="rbUseSoraApp.Text" xml:space="preserve">
-    <value>使用SoraApp</value>
+    <value>SoraAppを使用する</value>
   </data>
   <data name="&gt;&gt;rbUseSoraApp.Name" xml:space="preserve">
     <value>rbUseSoraApp</value>
@@ -369,13 +369,13 @@
     <value>13, 43</value>
   </data>
   <data name="rbUseNTLEA.Size" type="System.Drawing.Size, System.Drawing">
-    <value>77, 16</value>
+    <value>111, 16</value>
   </data>
   <data name="rbUseNTLEA.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
   <data name="rbUseNTLEA.Text" xml:space="preserve">
-    <value>使用NTLEA</value>
+    <value>NTLEAを使用する</value>
   </data>
   <data name="&gt;&gt;rbUseNTLEA.Name" xml:space="preserve">
     <value>rbUseNTLEA</value>
@@ -426,7 +426,7 @@
     <value>12</value>
   </data>
   <data name="btnBootFilename.Text" xml:space="preserve">
-    <value>浏览</value>
+    <value>開く</value>
   </data>
   <data name="&gt;&gt;btnBootFilename.Name" xml:space="preserve">
     <value>btnBootFilename</value>
@@ -450,7 +450,7 @@
     <value>12</value>
   </data>
   <data name="btnExcuteFilename.Text" xml:space="preserve">
-    <value>浏览</value>
+    <value>開く</value>
   </data>
   <data name="&gt;&gt;btnExcuteFilename.Name" xml:space="preserve">
     <value>btnExcuteFilename</value>
@@ -474,7 +474,7 @@
     <value>12</value>
   </data>
   <data name="btnExtractFilename.Text" xml:space="preserve">
-    <value>浏览</value>
+    <value>開く</value>
   </data>
   <data name="&gt;&gt;btnExtractFilename.Name" xml:space="preserve">
     <value>btnExtractFilename</value>
@@ -498,7 +498,7 @@
     <value>12</value>
   </data>
   <data name="btnSavePath.Text" xml:space="preserve">
-    <value>浏览</value>
+    <value>開く</value>
   </data>
   <data name="&gt;&gt;btnSavePath.Name" xml:space="preserve">
     <value>btnSavePath</value>
@@ -516,7 +516,7 @@
     <value>14, 174</value>
   </data>
   <data name="numDelay.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 21</value>
+    <value>62, 19</value>
   </data>
   <data name="numDelay.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -540,13 +540,13 @@
     <value>12, 159</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>125, 12</value>
+    <value>187, 12</value>
   </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>载入插件延时（秒）：</value>
+    <value>ローディング完了までの待ち時間（秒）：</value>
   </data>
   <data name="&gt;&gt;label5.Name" xml:space="preserve">
     <value>label5</value>
@@ -567,13 +567,13 @@
     <value>12, 116</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 12</value>
+    <value>121, 12</value>
   </data>
   <data name="label6.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>代码页：</value>
+    <value>ターゲットのコードページ：</value>
   </data>
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
@@ -594,7 +594,7 @@
     <value>13, 131</value>
   </data>
   <data name="tbCodePage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 21</value>
+    <value>62, 19</value>
   </data>
   <data name="tbCodePage.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -639,7 +639,7 @@
     <value>13, 66</value>
   </data>
   <data name="tbNTLEAPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>155, 21</value>
+    <value>155, 19</value>
   </data>
   <data name="tbNTLEAPath.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -666,7 +666,7 @@
     <value>18</value>
   </data>
   <data name="buttonNTLEA.Text" xml:space="preserve">
-    <value>浏览</value>
+    <value>開く</value>
   </data>
   <data name="&gt;&gt;buttonNTLEA.Name" xml:space="preserve">
     <value>buttonNTLEA</value>
@@ -711,7 +711,7 @@
     <value>20</value>
   </data>
   <data name="lbStatus.Text" xml:space="preserve">
-    <value>就绪</value>
+    <value>準備完了</value>
   </data>
   <data name="&gt;&gt;lbStatus.Name" xml:space="preserve">
     <value>lbStatus</value>
